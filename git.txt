@@ -40,3 +40,12 @@ $ git push origin <name_branch>
 
 $ git checkout master
 $ git merge <new_branch>
+
+
+Xem lại lịch sử commit
+$ git log
+
+Lệnh git log sẽ cho bạn biết về người commit, ngày giờ, message của những lần commit đó.
+
+Xem thay đổi trước khi push
+  $ git diff
